@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">一次分析，三个落点</title>
+  <desc id="desc">讲清当下要决定的事，按问题读取任务说明与原文，结合个案事实形成行动及修正条件。倾诉或只求一句回复时，不强加分析流程。</desc>
+  <rect width="1200" height="320" rx="16" fill="#253d3c"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <text x="64" y="60" font-size="23" fill="#d6e2d8">分析路径 / 从问题到行动</text>
+    <g id="decision"><text x="64" y="153" font-size="44" font-weight="500" fill="#faf8f2">讲清当下</text><text x="64" y="211" font-size="25" fill="#d6e2d8">这次想决定什么</text></g>
+    <g id="source"><text x="440" y="153" font-size="44" font-weight="500" fill="#faf8f2">按题查书</text><text x="440" y="211" font-size="25" fill="#d6e2d8">任务说明 + 原文</text></g>
+    <g id="action"><text x="816" y="153" font-size="44" font-weight="500" fill="#faf8f2">形成行动</text><text x="816" y="211" font-size="25" fill="#d6e2d8">建议 + 修正条件</text></g>
+    <g fill="none" stroke="#e8bda9" stroke-width="3"><path d="M310 139 H374 M361 127 L374 139 L361 151"/><path d="M686 139 H750 M737 127 L750 139 L737 151"/></g>
+    <path d="M64 251 H1136" stroke="#52706b"/>
+    <text x="64" y="289" font-size="22" fill="#d6e2d8">只想倾诉，或只要一句回复时，按你当下的需要回应。</text>
+  </g>
+</svg>

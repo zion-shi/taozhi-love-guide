@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">桃枝 · 人间爱情指南</title>
+  <desc id="desc">基于《人间爱情指南》v1.2 的中文婚恋咨询 Skill：人格独立、相互尊重、共同经营。</desc>
+  <rect width="1200" height="500" rx="16" fill="#faf8f2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <g id="book-heading">
+      <path d="M64 50 H106 M64 50 V92" fill="none" stroke="#b8604a" stroke-width="3"/>
+      <text x="126" y="74" font-size="24" letter-spacing="3" fill="#3d716f">TAOZHI / LOVE GUIDE</text>
+      <text x="1136" y="74" text-anchor="end" font-size="24" fill="#566963">SKILL · 0.1.1</text>
+      <text x="64" y="187" font-size="100" font-weight="600" font-family="'Songti SC', 'Noto Serif CJK SC', serif" fill="#253d3c">桃枝</text>
+      <path d="M306 116 V188" stroke="#d7cec1" stroke-width="2"/>
+      <text x="346" y="180" font-size="65" font-weight="500" fill="#253d3c">人间爱情指南</text>
+      <text x="68" y="270" font-size="39" fill="#3d716f">让 AI 帮你理解婚恋，认真经营关系。</text>
+    </g>
+    <g id="reasoning-principles">
+      <path d="M64 316 H1136" stroke="#d7cec1" stroke-width="2"/>
+      <text x="64" y="355" font-size="21" fill="#b8604a">01 / 独立</text>
+      <text x="64" y="411" font-size="46" font-weight="500" fill="#253d3c">人格独立</text>
+      <text x="440" y="355" font-size="21" fill="#b8604a">02 / 尊重</text>
+      <text x="440" y="411" font-size="46" font-weight="500" fill="#253d3c">相互尊重</text>
+      <text x="816" y="355" font-size="21" fill="#b8604a">03 / 经营</text>
+      <text x="816" y="411" font-size="46" font-weight="500" fill="#253d3c">共同经营</text>
+      <text x="64" y="467" font-size="22" fill="#566963">随包原文 · 按题读取 · 具体建议</text>
+      <path d="M1094 450 H1136 V408" fill="none" stroke="#b8604a" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
