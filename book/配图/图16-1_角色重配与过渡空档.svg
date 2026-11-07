@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="860" viewBox="0 0 1120 860" role="img" aria-labelledby="title desc">
+<title id="title">角色重配中的三个时间窗口</title>
+<desc id="desc">急性应对保护眼前必要功能，过渡稳定核对短期安排与接续，长期重建调整持续分工和发展空间。三者可重叠与回看。新支持未启动时，必须明确空档的实际承担、成本与仍未解决部分，不能自动要求原照护者兜底。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="860" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">生活变了：先接住需要，再重看持续安排</text>
+<text x="38" y="93" class="body">三个时间窗口可重叠、可回看，不是病情阶段，也不规定统一天数。</text>
+<rect x="38" y="135" width="320" height="230" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="176" class="title">急性应对</text>
+<text x="60" y="217" class="body">哪项必要事务不能等</text>
+<text x="60" y="250" class="body">谁此刻能实际接上</text>
+<text x="60" y="283" class="body">需要什么权限和支持</text>
+<text x="60" y="316" class="body">哪些需要仍未解决</text>
+<rect x="400" y="135" width="320" height="230" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="176" class="title">过渡稳定</text>
+<text x="422" y="217" class="body">已确认的支持能用多久</text>
+<text x="422" y="250" class="body">新服务何时实际开始</text>
+<text x="422" y="283" class="body">接续前由谁承担空档</text>
+<text x="422" y="316" class="body">现有收入与休息能否维持</text>
+<rect x="762" y="135" width="320" height="230" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="176" class="title">长期重建</text>
+<text x="784" y="217" class="body">变化持续后重排任务</text>
+<text x="784" y="250" class="body">重新安排收入与照护</text>
+<text x="784" y="283" class="body">贡献有保障，自主有空间</text>
+<text x="784" y="316" class="body">结果须被双方真实接受</text>
+<path class="line" d="M922,377 V413 H197 V377"/>
+<text x="336" y="448" class="small">新需要、时间限制或支持失效，都可能要求回到前面重看。</text>
+<rect x="38" y="485" width="1044" height="145" rx="15" fill="#f4efdf" stroke="#ccd9cf"/>
+<text x="60" y="526" class="title">过渡空档必须单独写清</text>
+<text x="60" y="567" class="body">新方案已提出 ≠ 新支持已到位。问过、已确认、已开始、已完成分别记录。</text>
+<text x="60" y="600" class="body">没有接续者，就承认缺口；原照护者不是自动生效的无限后备。</text>
+<rect x="38" y="658" width="510" height="130" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="699" class="title">本例已经改变的部分</text>
+<text x="60" y="740" class="body">一次后续事务已由杨维线上完成</text>
+<text x="60" y="773" class="body">另一次亲属已确认陪同，尚未执行</text>
+<rect x="572" y="658" width="510" height="130" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="594" y="699" class="title">本例仍未解决的部分</text>
+<text x="594" y="740" class="body">服务名额、费用和启动时间未确认</text>
+<text x="594" y="773" class="body">更长期安排未知，亲属未承诺每周</text>
+<text x="38" y="835" class="small">图16-1 · 依本节讨论的过渡机制绘制；不是医疗分期，不保证恢复原状。</text>
+</svg>

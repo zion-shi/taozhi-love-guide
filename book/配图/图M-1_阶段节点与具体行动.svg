@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" role="img" aria-labelledby="title desc">
+<title id="title">阶段、节点与具体行动分别判断</title>
+<desc id="desc">七阶段帮助查找情境，六节点帮助判断关系承诺，具体高后果行动仍须独立判断。三列不是顺序流程，危险与退出不需等到最后。</desc>
+<rect width="1120" height="740" fill="#faf8f2"/>
+<g font-family="PingFang SC, sans-serif" fill="#293c3a">
+<text x="40" y="56" font-size="32" font-weight="600">查的是情境，决定的是一件具体的事</text>
+<text x="40" y="94" font-size="19" fill="#64726b">三列分别回答不同问题；阶段与节点不机械一一对应，也不是三步考试。</text>
+<rect x="40" y="126" width="330" height="433" rx="16" fill="#e9f1eb"/>
+<rect x="390" y="126" width="330" height="433" rx="16" fill="#e9edf0"/>
+<rect x="740" y="126" width="340" height="433" rx="16" fill="#f1eade"/>
+<text x="62" y="166" font-size="24" font-weight="600">七阶段：查情境</text>
+<text x="62" y="203" font-size="18">现在实际处于什么相处情境？</text>
+<text x="62" y="255" font-size="20">S1　吸引与初识</text>
+<text x="62" y="294" font-size="20">S2　浪漫兴趣与亲密期待</text>
+<text x="62" y="333" font-size="20">S3　善意表达与约会</text>
+<text x="62" y="372" font-size="20">S4　排他了解</text>
+<text x="62" y="411" font-size="20">S5　恋爱、适婚与关键协商</text>
+<text x="62" y="450" font-size="20">S6　订婚后的落实</text>
+<text x="62" y="489" font-size="20">S7　婚后经营与适应</text>
+<text x="412" y="166" font-size="24" font-weight="600">六节点：看承诺</text>
+<text x="412" y="203" font-size="18">现实基础、意愿与后果是否支持？</text>
+<rect x="412" y="229" width="137" height="80" rx="8" fill="#f8fafb"/><text x="421" y="258" font-size="17">初识 →</text><text x="421" y="287" font-size="16">持续约会</text>
+<rect x="561" y="229" width="137" height="80" rx="8" fill="#f8fafb"/><text x="570" y="258" font-size="17">持续约会 →</text><text x="570" y="287" font-size="16">排他了解</text>
+<rect x="412" y="325" width="137" height="80" rx="8" fill="#f8fafb"/><text x="421" y="354" font-size="17">排他了解 →</text><text x="421" y="383" font-size="16">正式恋爱</text>
+<rect x="561" y="325" width="137" height="80" rx="8" fill="#f8fafb"/><text x="570" y="354" font-size="17">正式恋爱 →</text><text x="570" y="383" font-size="16">正式订婚</text>
+<rect x="412" y="421" width="137" height="80" rx="8" fill="#f8fafb"/><text x="421" y="450" font-size="17">订婚 →</text><text x="421" y="479" font-size="16">婚姻与家庭建立</text>
+<rect x="561" y="421" width="137" height="80" rx="8" fill="#f8fafb"/><text x="570" y="450" font-size="17">婚姻 →</text><text x="570" y="479" font-size="16">长期共同经营</text>
+<text x="412" y="535" font-size="17" fill="#64726b">按当前决定选卡，详见A.3。</text>
+<text x="762" y="166" font-size="24" font-weight="600">具体行动：单独判断</text>
+<text x="762" y="203" font-size="18">身份不自动授权新的重大行动。</text>
+<text x="762" y="255" font-size="20">身体接触：当下具体同意</text>
+<text x="762" y="300" font-size="20">同居迁居：生活与依赖</text>
+<text x="762" y="345" font-size="20">借款购房：资源与权责</text>
+<text x="762" y="390" font-size="20">生育照护：身体与实际承担</text>
+<text x="762" y="446" font-size="18">看与本次决定有关的事实、</text>
+<text x="762" y="477" font-size="18">本人意愿、实际资源和权限。</text>
+<text x="762" y="514" font-size="18">未知不填成已落实。</text>
+<rect x="40" y="584" width="1040" height="94" rx="14" fill="#f5e6df"/>
+<text x="62" y="622" font-size="22" font-weight="600" fill="#754538">危险与退出可以从任何阶段进入</text>
+<text x="62" y="655" font-size="19" fill="#754538">保护不等待普通协商完成；既有责任与是否继续关系分别处理。</text>
+<text x="40" y="714" font-size="18" fill="#64726b">图M-1 · 查表按问题选择，阶段编号与节点数量均不构成关系总分。</text>
+</g></svg>

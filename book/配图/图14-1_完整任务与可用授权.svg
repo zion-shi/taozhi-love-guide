@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="990" viewBox="0 0 1120 990" role="img" aria-labelledby="title desc">
+<title id="title">完整任务与可用授权</title><desc id="desc">需求发现、计划、执行、跟进是一条完整任务线；共同认可的结果和资源权限使认领可执行，变化时说明、再分配。正常分工与缺口后的临时补位分开。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="990" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="50" class="title">从发现到收尾，连同权限一起交接</text>
+<rect x="38" y="83" width="1044" height="120" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="124" class="title">先认可结果和执行条件</text>
+<text x="60" y="165" class="body">需要完成什么；有什么真实时间、信息、资金与权限；哪些变化须重议</text>
+<rect x="38" y="252" width="240" height="166" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="293" class="title">发现需求</text>
+<text x="60" y="334" class="body">清点已有物品</text>
+<text x="60" y="367" class="body">接收特殊需要</text>
+<rect x="306" y="252" width="240" height="166" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="328" y="293" class="title">计划</text>
+<text x="328" y="334" class="body">安排时间与清单</text>
+<text x="328" y="367" class="body">依约选择替代</text>
+<rect x="574" y="252" width="240" height="166" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="596" y="293" class="title">执行</text>
+<text x="596" y="334" class="body">在范围内自主选择</text>
+<text x="596" y="367" class="body">完成实际购买</text>
+<rect x="842" y="252" width="240" height="166" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="864" y="293" class="title">跟进与沟通</text>
+<text x="864" y="334" class="body">核对、收纳、补漏</text>
+<text x="864" y="367" class="body">主动说明未完成</text>
+<path class="line" d="M278,335 H301"/>
+<path class="line" d="M546,335 H569"/>
+<path class="line" d="M814,335 H837"/>
+<path class="line" d="M560,203 V227 H158 V250"/>
+<rect x="38" y="470" width="505" height="170" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="511" class="title">结果已完成，负担确实减少</text>
+<text x="60" y="552" class="body">看实际结果与当事人反馈</text>
+<text x="60" y="585" class="body">范围内不逐步审批</text>
+<text x="60" y="618" class="body">平稳后减少记录，不天天考核</text>
+<rect x="577" y="470" width="505" height="170" rx="15" fill="#f5eee2" stroke="#ccd9cf"/>
+<text x="599" y="511" class="title">缺条件、仍需补漏或重要变化</text>
+<text x="599" y="552" class="body">执行者及时说明已做与未做</text>
+<text x="599" y="585" class="body">补条件、简化或重新分配</text>
+<text x="599" y="618" class="body">没有确认的帮手，不能算已接替</text>
+<path class="line" d="M962,418 V445 H291 V468"/>
+<path class="line" d="M962,445 H829 V468"/>
+<path class="line" d="M1082,555 H1103 V145 H1084"/>
+<rect x="38" y="702" width="505" height="177" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="743" class="title">普通分工</text>
+<text x="60" y="784" class="body">在正常运行中各认领不同任务</text>
+<text x="60" y="817" class="body">差异本身不等于寄生或代偿</text>
+<text x="60" y="850" class="body">仍要核对认可、负担与保障</text>
+<rect x="577" y="702" width="505" height="177" rx="15" fill="#edf0f3" stroke="#ccd9cf"/>
+<text x="599" y="743" class="title">缺口后的额外补位</text>
+<text x="599" y="784" class="body">对照原基线：谁额外做了什么</text>
+<text x="599" y="817" class="body">谁付出成本；何时重看</text>
+<text x="599" y="850" class="body">持续变化要重建分工</text>
+<text x="40" y="935" class="small">图14-1｜先看事情有没有做成，再看是否仍由另一人持续提醒和救场。</text>
+</svg>

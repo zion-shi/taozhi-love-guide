@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="855" viewBox="0 0 1120 855" role="img" aria-labelledby="title desc">
+<title id="title">经历与判断更新</title><desc id="desc">共同经历会进入个人意义与身份期待。它可以与新事实共同支持诚实表达，也可能在不得改变的解释下压住疑问和增加绑定。两条均为条件性路径，不是必然阶段；经历不产生婚约或身体债权。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="855" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">经历有分量，后续判断仍需要新事实</text>
+<rect x="38" y="90" width="320" height="155" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">共同经历</text>
+<text x="60" y="172" class="body">快乐、亲近、共同记忆</text>
+<text x="60" y="205" class="body">也可能有失落与疑问</text>
+<rect x="400" y="90" width="320" height="155" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="131" class="title">各自赋予意义</text>
+<text x="422" y="172" class="body">对我来说意味着什么</text>
+<text x="422" y="205" class="body">两人的感受未必相同</text>
+<rect x="762" y="90" width="320" height="155" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="131" class="title">形成身份期待</text>
+<text x="784" y="172" class="body">希望怎样继续关系</text>
+<text x="784" y="205" class="body">期待不等于共同承诺</text>
+<path class="line" d="M364,167 H390"/><path class="line" d="M726,167 H752"/>
+<text x="38" y="287" class="body">分岔条件：能否表达真实疑问和不愿意？新事实能否改变原来的解释？</text>
+<path class="line" d="M922,253 V310 H293 V337"/><path class="line" d="M922,310 H827 V337"/>
+<rect x="38" y="350" width="510" height="255" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="391" class="title">若允许更新</text>
+<text x="60" y="432" class="body">把经历的意义说清</text>
+<text x="60" y="465" class="body">仍能提问、拒绝或改变决定</text>
+<text x="60" y="498" class="body">用后续回应与行动校正判断</text>
+<text x="60" y="531" class="body">继续或退出有当前依据</text>
+<rect x="572" y="350" width="510" height="255" rx="15" fill="#f5e8df" stroke="#ccd9cf"/>
+<text x="594" y="391" class="title">若把经历解释为不得改变</text>
+<text x="594" y="432" class="body">“已经这样了”压住疑问</text>
+<text x="594" y="465" class="body">关键差异与未知被搁置</text>
+<text x="594" y="498" class="body">再用新绑定维持既有选择</text>
+<text x="594" y="531" class="body">需停止用绑定代替回答</text>
+<rect x="38" y="646" width="1044" height="123" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="687" class="title">可以珍惜过去，同时重新选择未来</text>
+<text x="60" y="728" class="body">留恋不等于判断失效；新亲密不能代替关键事实、真实同意或实际改善。</text>
+<text x="38" y="816" class="small">图10-1 · 本书的条件性解释路径，不是已验证的普遍阶段或个体诊断。</text>
+</svg>

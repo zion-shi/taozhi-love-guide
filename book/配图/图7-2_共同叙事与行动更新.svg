@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="830" viewBox="0 0 1120 830" role="img" aria-labelledby="title desc">
+<title id="title">共同叙事与行动更新</title><desc id="desc">经历与各自解释形成共同期待，影响下一次选择和行动；新行动与实际后果必须回到原理解，支持它或促使修订。保留事实、不同感受与自主，不能以故事封堵更新。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="830" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="53" font-size="29" font-weight="600">故事影响下一次选择，新行动也要能改变故事</text>
+<text x="38" y="90" class="body">共同叙事连接经历、解释与兑现；不要求两个人用同一种感受记住过去。</text>
+<rect x="38" y="130" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="171" class="title">经历与各自解释</text>
+<text x="60" y="212" class="body">发生过什么、各自体验什么</text>
+<text x="60" y="245" class="body">事实可以核对</text>
+<text x="60" y="278" class="body">意义可以不同</text>
+<rect x="400" y="130" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="171" class="title">共同期待与方向</text>
+<text x="422" y="212" class="body">我们想怎样继续生活</text>
+<text x="422" y="245" class="body">以前的经历改变预期</text>
+<text x="422" y="278" class="body">个人目标也可能随之调整</text>
+<rect x="762" y="130" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="171" class="title">新的选择与行动</text>
+<text x="784" y="212" class="body">具体安排怎样落实</text>
+<text x="784" y="245" class="body">谁实际参与、承担后果</text>
+<text x="784" y="278" class="body">新的经验又增加了什么</text>
+<path class="line" d="M362,218 H392"/><path class="line" d="M724,218 H754"/><path class="line" d="M922,311 V358"/>
+<rect x="38" y="370" width="1044" height="160" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="411" class="title">把新事实放回原来的理解</text>
+<text x="60" y="452" class="body">行动兑现，可以支持一定范围内的信任与期待；未兑现或出现新损害，就需要更新判断。</text>
+<text x="60" y="485" class="body">修订的是理解、期待与下一步安排，不是改写已经发生的事实，也不必一概否定全部历史。</text>
+<path class="line" d="M198,364 V315"/>
+<rect x="38" y="575" width="320" height="131" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="616" class="title">承认真实付出</text>
+<text x="60" y="657" class="body">过去的好可以被记得</text>
+<text x="60" y="690" class="body">不形成永久关系债权</text>
+<rect x="400" y="575" width="320" height="131" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="422" y="616" class="title">容纳不同体验</text>
+<text x="422" y="657" class="body">共同故事允许说出遗憾</text>
+<text x="422" y="690" class="body">不以忠诚要求删除伤害</text>
+<rect x="762" y="575" width="320" height="131" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="784" y="616" class="title">保留修订与选择</text>
+<text x="784" y="657" class="body">谁先讲述都不取得全权</text>
+<text x="784" y="690" class="body">不同意和退出仍可表达</text>
+<text x="38" y="750" class="body">若故事不允许真实异议出现，更新通道就可能被封堵；需要看事实与实际决定权。</text>
+<text x="38" y="797" class="small">图7-2 · 共同意义的形成与修订，不是要求保持积极解释的单向程序。</text>
+</svg>

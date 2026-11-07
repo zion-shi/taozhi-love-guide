@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1040" viewBox="0 0 1120 1040" role="img" aria-labelledby="title desc">
+<title id="title">功能时间与账户</title><desc id="desc">六类功能回答资金用途，三层时间回答使用时点，账户回答存放位置。三种视角不产生十八个强制账户，同一金额不重复计入。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1040" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="50" class="title">同一笔钱，分开看用途、时间和位置</text>
+<rect x="38" y="90" width="1044" height="119" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">先确认来源与真实金额</text>
+<text x="60" y="172" class="body">意向、承诺、到账、可用分别看；性质、限制与必要义务不省略。</text>
+<rect x="38" y="263" width="334" height="238" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="304" class="title">功能：服务什么</text>
+<text x="60" y="345" class="body">日常经营 · 年度计划</text>
+<text x="60" y="378" class="body">风险保障 · 长期目标</text>
+<text x="60" y="411" class="body">投资管理 · 个人自主</text>
+<text x="60" y="444" class="body">六种功能不等于六笔钱</text>
+<rect x="393" y="263" width="334" height="238" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="415" y="304" class="title">时间：何时要用</text>
+<text x="415" y="345" class="body">当期</text>
+<text x="415" y="378" class="body">年内</text>
+<text x="415" y="411" class="body">跨年</text>
+<text x="415" y="444" class="body">长期保留仍须核可用性</text>
+<rect x="748" y="263" width="334" height="238" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="770" y="304" class="title">位置：存在哪里</text>
+<text x="770" y="345" class="body">共同管理位置</text>
+<text x="770" y="378" class="body">个人使用位置</text>
+<text x="770" y="411" class="body">按需选择账户组合</text>
+<text x="770" y="444" class="body">位置不直接决定产权</text>
+<path class="line" d="M560,209 V235 H205 V261"/>
+<path class="line" d="M560,209 V235 H560 V261"/>
+<path class="line" d="M560,209 V235 H915 V261"/>
+<rect x="38" y="559" width="1044" height="165" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="600" class="title">横跨三种视角：谁能决定，谁执行，怎样更改</text>
+<text x="60" y="641" class="body">使用范围、管理者、必要信息、变更条件，按真实权限确认。</text>
+<text x="60" y="674" class="body">同一金额只汇总一次；没有权限或不能取用，账面余额不能直接当可用。</text>
+<path class="line" d="M205,501 V530 H560 V557"/>
+<path class="line" d="M560,501 V530 H560 V557"/>
+<path class="line" d="M915,501 V530 H560 V557"/>
+<rect x="38" y="779" width="1044" height="153" rx="15" fill="#f5eee2" stroke="#ccd9cf"/>
+<text x="60" y="820" class="title">一个账户的演示：66000元不是全部自由余额</text>
+<text x="60" y="861" class="body">应急60000元 ＋ 年内专款6000元 ＝ 账户合计66000元</text>
+<text x="60" y="894" class="body">年内专款已有用途，不能又计作同一份应急储备；改变用途须处理原责任。</text>
+<text x="40" y="987" class="small">图F-1｜六功能 × 三时间不是十八个账户；账面位置、用途、权限与产权分别核对。</text>
+</svg>

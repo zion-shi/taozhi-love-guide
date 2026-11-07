@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1090" viewBox="0 0 1120 1090" role="img" aria-labelledby="title desc">
+<title id="title">家庭建立与两种独立情境</title><desc id="desc">沈宁与梁川从任务交接、住房延期的可行过渡，到分别完成登记、仪式和入住，再启动日常。支持条件变更是假设情境，资源仍未解决。余舒与何峥是另一对准新人，迟付及推责后，同一笔款已到账，后续分为修复和拒绝回应两种方向。三个情境的事实分别判断。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1090" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">三种情境，分别核对资源、履行与选择</text>
+<rect x="38" y="90" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">沈宁与梁川：自筹租住</text>
+<text x="60" y="172" class="body">已形成婚约与可行方案</text>
+<text x="60" y="205" class="body">场地联络交接后补清权限</text>
+<text x="60" y="238" class="body">已有总预算不变</text>
+<rect x="400" y="90" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="131" class="title">独立假设：出资加码</text>
+<text x="422" y="172" class="body">第12.6节的独立假设</text>
+<text x="422" y="205" class="body">曾有可信亲属支持与婚约</text>
+<text x="422" y="238" class="body">原方案依赖父母购房支持</text>
+<rect x="762" y="90" width="320" height="175" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="131" class="title">余舒与何峥：筹备冲突</text>
+<text x="784" y="172" class="body">准新人尚在婚礼筹备期</text>
+<text x="784" y="205" class="body">费用可用却未按约转出</text>
+<text x="784" y="238" class="body">向亲属错误推责给余舒</text>
+<path class="line" d="M198,273 V305"/>
+<path class="line" d="M560,273 V305"/>
+<path class="line" d="M922,273 V305"/>
+<rect x="38" y="318" width="320" height="205" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="359" class="title">住房日期延后一周</text>
+<text x="60" y="400" class="body">签约付款前获知变化</text>
+<text x="60" y="433" class="body">原住处与过渡费用已核</text>
+<text x="60" y="466" class="body">本人接受后调整搬入</text>
+<text x="60" y="499" class="body">不因亲友到场自动继续</text>
+<rect x="400" y="318" width="320" height="205" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="359" class="title">原资源前提改变</text>
+<text x="422" y="400" class="body">新增条件两人不接受</text>
+<text x="422" y="433" class="body">支持未到账，替代未核</text>
+<text x="422" y="466" class="body">暂缓依赖该款的新行动</text>
+<text x="422" y="499" class="body">原场地预付款另行处理</text>
+<rect x="762" y="318" width="320" height="205" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="359" class="title">同一笔款后来付出</text>
+<text x="784" y="400" class="body">供应方确认当次收款</text>
+<text x="784" y="433" class="body">没有代垫或第二次赔付</text>
+<text x="784" y="466" class="body">失信与贬低仍需回应</text>
+<text x="784" y="499" class="body">不代表全账或信任结清</text>
+<path class="line" d="M198,531 V563"/>
+<path class="line" d="M560,531 V563"/>
+<path class="line" d="M922,531 V563"/>
+<rect x="38" y="576" width="320" height="270" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="617" class="title">先后实施与日常启动</text>
+<text x="60" y="658" class="body">登记实际完成</text>
+<text x="60" y="691" class="body">小型仪式与聚餐举行</text>
+<text x="60" y="724" class="body">房屋可交接后签约支付</text>
+<text x="60" y="757" class="body">接钥匙并共同入住</text>
+<text x="60" y="790" class="body">厨房任务几次改善</text>
+<text x="60" y="823" class="body">不据此认证长期成熟</text>
+<rect x="400" y="576" width="320" height="270" rx="15" fill="#f5e8df" stroke="#ccd9cf"/>
+<text x="422" y="617" class="title">仍未解决的部分</text>
+<text x="422" y="658" class="body">没有确认可承担新路径</text>
+<text x="422" y="691" class="body">没有后来自动到账的资金</text>
+<text x="422" y="724" class="body">资源缺口仍需实际解决</text>
+<text x="422" y="757" class="body">是否继续按本人选择</text>
+<text x="422" y="790" class="body">费用与真实责任另处理</text>
+<rect x="762" y="576" width="320" height="270" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="784" y="617" class="title">不同回应分别判断</text>
+<text x="784" y="658" class="body">修复方向：更正错误说法</text>
+<text x="784" y="691" class="body">恢复参与，有一次后续履行</text>
+<text x="784" y="724" class="body">不强迫感情立即恢复</text>
+<text x="784" y="757" class="body">拒绝方向：仍以钱压下问题</text>
+<text x="784" y="790" class="body">拒绝认责时须重看婚约</text>
+<text x="784" y="823" class="body">本人可暂停或不再继续</text>
+<rect x="38" y="879" width="1044" height="113" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="920" class="title">登记、仪式、入住和合作改善，各自有不同凭据</text>
+<text x="60" y="961" class="body">后两种情境尚未给出登记、仪式与入住的结果；所有故事均为虚构。</text>
+<text x="38" y="1043" class="small">图13-2 · 已发生损害和可能传导分别看；不同情境的资源、付款与改善不能相加。</text>
+</svg>

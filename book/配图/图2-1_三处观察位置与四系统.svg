@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="850" viewBox="0 0 1120 850" role="img" aria-labelledby="title desc"><title id="title">三处观察位置与四个功能系统</title><desc id="desc">周围环境持续影响关系。基础层包括价值观、人生叙事、自主意愿、共同体认同。核心层是感情、生活、经济三个领域和跨领域治理。基础与运行相互影响，具体的人才是行动者。</desc><defs><marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto-start-reverse"><path d="M0 0 L9 4.5 L0 9 Z" fill="#3d716f"/></marker></defs><rect width="1120" height="850" rx="20" fill="#faf8f2"/><style>text{font-family:"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#253d3c} .minor{fill:#526565}</style>
+<text x="40" y="53" font-size="30" font-weight="600" text-anchor="start" class="">三处观察位置与四个功能系统</text>
+<rect x="40" y="90" width="1040" height="670" rx="14" fill="#f1eee4" stroke="#d9d5c7"/>
+<text x="65" y="128" font-size="25" font-weight="600" text-anchor="start" class="">周围环境</text>
+<text x="65" y="162" font-size="21" font-weight="400" text-anchor="start" class="">亲友、职业、服务、资源与制度：支持、义务、信息和限制</text>
+<path d="M560 173 V202" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="110" y="215" width="900" height="345" rx="14" fill="#fffdf7" stroke="#ded8ca"/>
+<text x="135" y="250" font-size="24" font-weight="600" text-anchor="start" class="">核心层：3+1</text>
+<rect x="140" y="272" width="250" height="121" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="265.0" y="310" font-size="23" font-weight="600" text-anchor="middle" class="">感情</text>
+<text x="265.0" y="346" font-size="19" font-weight="400" text-anchor="middle" class="minor">吸引、亲密与回应</text>
+<text x="265.0" y="376" font-size="19" font-weight="400" text-anchor="middle" class="minor">相处的实际体验</text>
+<path d="M265 405 V426" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="435" y="272" width="250" height="121" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="560.0" y="310" font-size="23" font-weight="600" text-anchor="middle" class="">生活</text>
+<text x="560.0" y="346" font-size="19" font-weight="400" text-anchor="middle" class="minor">活动、事务与照护</text>
+<text x="560.0" y="376" font-size="19" font-weight="400" text-anchor="middle" class="minor">任务和休息怎样安排</text>
+<path d="M560 405 V426" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="730" y="272" width="250" height="121" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="855.0" y="310" font-size="23" font-weight="600" text-anchor="middle" class="">经济</text>
+<text x="855.0" y="346" font-size="19" font-weight="400" text-anchor="middle" class="minor">资源、使用与责任</text>
+<text x="855.0" y="376" font-size="19" font-weight="400" text-anchor="middle" class="minor">钱和其他资源怎样运行</text>
+<path d="M855 405 V426" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<path d="M402 333 H423" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<path d="M697 333 H718" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="140" y="438" width="840" height="105" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="560.0" y="476" font-size="23" font-weight="600" text-anchor="middle" class="">治理：跨领域的共同决定、履约与调整</text>
+<text x="560.0" y="512" font-size="19" font-weight="400" text-anchor="middle" class="minor">信息与边界、权责与参与、规则的执行和纠正</text>
+<path d="M560 570 V590" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<text x="592" y="585" font-size="18" font-weight="400" text-anchor="start" class="minor">相互影响</text>
+<rect x="110" y="605" width="900" height="126" rx="14" fill="#fffdf7" stroke="#ded8ca"/>
+<text x="560" y="647" font-size="25" font-weight="600" text-anchor="middle" class="">基础层：意义、意愿与认同</text>
+<text x="560" y="686" font-size="23" font-weight="400" text-anchor="middle" class="">价值观 · 人生叙事 · 自主意愿 · 共同体认同</text>
+<text x="560" y="802" font-size="21" font-weight="400" text-anchor="middle" class="minor">三个观察位置，不是单向因果等级；实际行动者是具体的人。</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1050" viewBox="0 0 1120 1050" role="img" aria-labelledby="title desc">
+<title id="title">沈宁与梁川的当前网络与支持状态</title><desc id="desc">沈宁与梁川在第九章9.5之后：父母已表达本地支持方向，母亲提出婚宴期待，梁川已电话说明不先预订。住房支持尚未落实。沈宁和梁川均已参与对方圈子的活动，朋友尚未确认提供资金或长期照护支持。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1050" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="52" class="title">沈宁与梁川：已有往来与拟议支持是两种状态</text>
+<text x="38" y="92" class="body">时点为9.5电话之后；图只标当前相关联系，不为家庭或成员评级。</text>
+<rect x="400" y="130" width="320" height="174" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="422" y="171" class="title">梁川父母</text>
+<text x="422" y="212" class="body">已表达本地购房支持方向</text>
+<text x="422" y="245" class="body">母亲另表达婚宴期待</text>
+<text x="422" y="278" class="body">金额、时间及其余条件未知</text>
+<rect x="38" y="370" width="320" height="204" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="411" class="title">沈宁</text>
+<text x="60" y="452" class="body">愿以后在本地生活</text>
+<text x="60" y="485" class="body">未接受全部未知条件</text>
+<text x="60" y="518" class="body">未同意先预订婚宴</text>
+<rect x="400" y="370" width="320" height="204" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="422" y="411" class="title">共同生活的讨论</text>
+<text x="422" y="452" class="body">双方愿核算真实可行路径</text>
+<text x="422" y="485" class="body">尚未订婚或签约购房</text>
+<text x="422" y="518" class="body">没有已落实的替代住房</text>
+<rect x="762" y="370" width="320" height="204" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="411" class="title">梁川</text>
+<text x="784" y="452" class="body">已说明本人立场</text>
+<text x="784" y="485" class="body">已电话表明不先预订</text>
+<text x="784" y="518" class="body">没有把未解决转述为谈妥</text>
+<path class="line" d="M560,312 V358" stroke-dasharray="7 6"/><path class="line" d="M366,470 H388"/><path class="line" d="M750,470 H731"/>
+<text x="588" y="340" class="small">拟议支持，未到位</text>
+<path class="line" d="M729,217 H1094 V464 H1089" marker-start="url(#arrow)"/>
+<text x="784" y="254" class="small">期待与电话回应已发生</text>
+<rect x="38" y="668" width="320" height="171" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="709" class="title">沈宁的朋友</text>
+<text x="60" y="750" class="body">梁川已参加普通散步</text>
+<text x="60" y="783" class="body">双方有实际接触</text>
+<text x="60" y="816" class="body">未确认资金或照护承诺</text>
+<rect x="762" y="668" width="320" height="171" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="784" y="709" class="title">梁川的朋友</text>
+<text x="784" y="750" class="body">公园与餐饮活动已完成</text>
+<text x="784" y="783" class="body">消费在接受范围内</text>
+<text x="784" y="816" class="body">未确认资金或照护承诺</text>
+<path class="line" d="M198,659 V586"/><path class="line" d="M922,659 V586"/>
+<text x="38" y="627" class="small">已发生的往来</text>
+<text x="762" y="627" class="small">已发生的往来</text>
+<text x="400" y="701" class="body">朋友参加过活动，</text>
+<text x="400" y="735" class="body">不等于同意应急接手。</text>
+<text x="400" y="791" class="small">父母真实资源的决定，</text>
+<text x="400" y="822" class="small">与两人的婚姻选择分开。</text>
+<rect x="38" y="885" width="1044" height="111" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="926" class="title">按事实更新状态</text>
+<text x="60" y="967" class="body">实线只确认所标交流或行动；虚线表示未落实，不表示支持者不可靠。</text>
+<text x="38" y="1031" class="small">图H-1 · 出资、产权与朋友后援须分别确认；新条件出现后再更新具体连接。</text>
+</svg>

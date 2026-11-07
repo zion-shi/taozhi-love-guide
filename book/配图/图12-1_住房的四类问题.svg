@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="920" viewBox="0 0 1120 920" role="img" aria-labelledby="title desc">
+<title id="title">住房的四类问题</title><desc id="desc">同一住房安排分开核对资金、财产权利、居住与日常治理。各项由相关真实权利人与当事人参与，单项确认不能替代其他事项，最后核对是否有本人愿意且可执行的组合。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="920" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">一套住房方案，分开回答四类问题</text>
+<rect x="38" y="90" width="510" height="215" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">资金：实际能用什么</text>
+<text x="60" y="172" class="body">谁出资、有无相应权限</text>
+<text x="60" y="205" class="body">金额、用途、时间、偿还与条件</text>
+<text x="60" y="238" class="body">意向、明确承诺、到账、可用分开</text>
+<text x="60" y="271" class="body">不能重复计入或预支未定支持</text>
+<rect x="572" y="90" width="510" height="215" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="594" y="131" class="title">财产权利：具体怎样安排</text>
+<text x="594" y="172" class="body">给个人、给双方还是借款</text>
+<text x="594" y="205" class="body">拟登记、负担及法律效果另核</text>
+<text x="594" y="238" class="body">账户管理不等于全部权属</text>
+<text x="594" y="271" class="body">两人不能替实际权利人处分财产</text>
+<rect x="38" y="333" width="510" height="215" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="374" class="title">居住：谁怎样生活</text>
+<text x="60" y="415" class="body">谁住、何时开始、多久</text>
+<text x="60" y="448" class="body">公共与私人空间如何使用</text>
+<text x="60" y="481" class="body">实际权利与安排能否支持</text>
+<text x="60" y="514" class="body">获准居住不等于拥有处分权限</text>
+<rect x="572" y="333" width="510" height="215" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="594" y="374" class="title">日常治理：谁决定什么</text>
+<text x="594" y="415" class="body">装修、作息、探访与家务</text>
+<text x="594" y="448" class="body">共同讨论与日常授权各有范围</text>
+<text x="594" y="481" class="body">出资不自动取得无限支配权</text>
+<text x="594" y="514" class="body">身体与重大行动仍需本人决定</text>
+<path d="M293,556 V592 H827 V556" fill="none" stroke="#50746b" stroke-width="2"/><path class="line" d="M560,592 V620"/>
+<rect x="38" y="633" width="1044" height="145" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="674" class="title">把以上四项合在同一方案中核对：条件能否同时成立</text>
+<text x="60" y="715" class="body">实际有关的人是否知情并接受；资源、权限与生活安排是否相符。</text>
+<text x="60" y="748" class="body">若不接受或不可执行，比较真实替代或暂缓；不靠先结婚再改变别人。</text>
+<text x="38" y="826" class="body">父母决定自己的相关资源；两人各自决定是否接受相应生活及后果。</text>
+<text x="38" y="873" class="small">图12-1 · 一项确认不代替其余三项；条件变化，返回受影响的问题。</text>
+</svg>

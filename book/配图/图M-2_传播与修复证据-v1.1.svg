@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="920" viewBox="0 0 1260 920" role="img" aria-labelledby="title desc">
+<title id="title">图M-2 从已发生损害到有限修复</title>
+<desc id="desc">三条独立案例分别标出原事件、已发生影响、已做处理与尚未解决的结果。并非所有领域都会依次受损，也不以一次行动证明长期恢复。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#88948b"/></marker></defs>
+<rect width="1260" height="920" fill="#f6f5ef"/>
+<g font-family="PingFang SC, sans-serif" fill="#263f38">
+<text x="40" y="60" font-size="30" font-weight="600">从已发生损害到有限修复</text>
+<text x="40" y="98" font-size="20" fill="#5e6f64">三条独立案例 · 只记录本例事实，不预测必然结局</text>
+<text x="40" y="141" font-size="18" font-weight="600">最初事件</text>
+<text x="345" y="141" font-size="18" font-weight="600">已见损害</text>
+<text x="650" y="141" font-size="18" font-weight="600">已经做了什么</text>
+<text x="955" y="141" font-size="18" font-weight="600">仍未恢复或未知</text>
+<text x="40" y="169" font-size="18" font-weight="600" fill="#38685d">案例一 · 隐瞒债务</text>
+<rect x="40" y="186" width="265" height="154" rx="10" fill="#e8eddf"/>
+<text x="56" y="229" font-size="18">甲故意隐瞒借款负担</text>
+<text x="56" y="263" font-size="18">先还款后，共同计划出现缺口</text>
+<path d="M 313 263 H 335" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="345" y="186" width="265" height="154" rx="10" fill="#f1e4d9"/>
+<text x="361" y="229" font-size="18">乙垫款，个人计划推迟</text>
+<text x="361" y="263" font-size="18">共同决定的信息基础受损</text>
+<text x="361" y="297" font-size="18">不安与回避使沟通减少</text>
+<path d="M 618 263 H 640" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="650" y="186" width="265" height="154" rx="10" fill="#dfece5"/>
+<text x="666" y="229" font-size="18">垫款实际返还</text>
+<text x="666" y="263" font-size="18">必要信息回到讨论</text>
+<text x="666" y="297" font-size="18">一次新的拒绝得到尊重</text>
+<rect x="955" y="186" width="265" height="154" rx="10" fill="#ecebe3"/>
+<text x="971" y="229" font-size="18">剩余借款与长期履行仍待看</text>
+<text x="971" y="263" font-size="18">乙仍不安</text>
+<text x="971" y="297" font-size="18">不能等同全部信任恢复</text>
+<path d="M 922 263 H 945" fill="none" stroke="#88948b" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="40" y="381" font-size="18" font-weight="600" fill="#38685d">案例二 · 借出资干预</text>
+<rect x="40" y="398" width="265" height="154" rx="10" fill="#e8eddf"/>
+<text x="56" y="441" font-size="18">租金支持被扩张为决定权</text>
+<text x="56" y="475" font-size="18">甲未经确认代答</text>
+<text x="56" y="509" font-size="18">又向亲属作片面评价</text>
+<path d="M 313 475 H 335" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="345" y="398" width="265" height="154" rx="10" fill="#f1e4d9"/>
+<text x="361" y="441" font-size="18">乙的一次培训未成行</text>
+<text x="361" y="475" font-size="18">参与决定受到挤压</text>
+<text x="361" y="509" font-size="18">同源劝告增加解释压力</text>
+<path d="M 618 475 H 640" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="650" y="398" width="265" height="154" rx="10" fill="#dfece5"/>
+<text x="666" y="441" font-size="18">另住已落实，成本自己承担</text>
+<text x="666" y="475" font-size="18">甲向原接收者澄清</text>
+<text x="666" y="509" font-size="18">再遇劝告仍纠正原说法</text>
+<rect x="955" y="398" width="265" height="154" rx="10" fill="#ecebe3"/>
+<text x="971" y="441" font-size="18">居住成本真实存在</text>
+<text x="971" y="475" font-size="18">亲属是否全面改变未知</text>
+<text x="971" y="509" font-size="18">乙的信任未全恢复</text>
+<path d="M 922 475 H 945" fill="none" stroke="#88948b" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="40" y="593" font-size="18" font-weight="600" fill="#38685d">案例三 · 育儿分工失衡</text>
+<rect x="40" y="610" width="265" height="154" rx="10" fill="#e8eddf"/>
+<text x="56" y="653" font-size="18">乙已认领两晚任务</text>
+<text x="56" y="687" font-size="18">仍由甲反复启动和检查</text>
+<path d="M 313 687 H 335" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="345" y="610" width="265" height="154" rx="10" fill="#f1e4d9"/>
+<text x="361" y="653" font-size="18">甲少休息，工作材料推迟</text>
+<text x="361" y="687" font-size="18">疲惫被解释为不关心</text>
+<text x="361" y="721" font-size="18">双方交流减少</text>
+<path d="M 618 687 H 640" fill="none" stroke="#88948b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="650" y="610" width="265" height="154" rx="10" fill="#dfece5"/>
+<text x="666" y="653" font-size="18">首晚漏项后乙自己补好</text>
+<text x="666" y="687" font-size="18">次晚独立完成，甲得到休息</text>
+<text x="666" y="721" font-size="18">后来的短谈稍轻松</text>
+<rect x="955" y="610" width="265" height="154" rx="10" fill="#ecebe3"/>
+<text x="971" y="653" font-size="18">一次承担不证明长期稳定</text>
+<text x="971" y="687" font-size="18">疲劳恢复程度仍未知</text>
+<text x="971" y="721" font-size="18">后续变化仍须调整</text>
+<path d="M 922 687 H 945" fill="none" stroke="#88948b" stroke-width="2" stroke-dasharray="3 4"/>
+<line x1="40" y1="806" x2="1220" y2="806" stroke="#bcc9bd"/>
+<text x="40" y="842" font-size="19">事务有改善，不代表规则、信任与感情同时恢复；本人仍可决定是否继续。</text>
+<text x="40" y="877" font-size="18" fill="#5e6f64">若出现可信威胁、强迫或现实报复，优先保护与独立支持，不等待普通共同修复。</text>
+</g></svg>

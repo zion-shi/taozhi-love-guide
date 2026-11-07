@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc"><title id="title">关系的渐进生成与良性循环</title><desc id="desc">接触与互动、重复协作、功能形成、明确承诺和跨域连接可以交织或回退。合理投入、积极反馈、信任与认同、继续参与之间形成需要意愿和可承担条件支持的循环。</desc><defs><marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto-start-reverse"><path d="M0 0 L9 4.5 L0 9 Z" fill="#3d716f"/></marker></defs><rect width="1120" height="760" rx="20" fill="#faf8f2"/><style>text{font-family:"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#253d3c} .minor{fill:#526565}</style>
+<text x="40" y="53" font-size="30" font-weight="600" text-anchor="start" class="">关系的渐进生成与良性循环</text>
+<text x="40" y="97" font-size="21" font-weight="400" text-anchor="start" class="minor">观察形成过程：顺序可能交织、停滞或回退。</text>
+<rect x="40" y="125" width="192" height="112" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="136.0" y="163" font-size="22" font-weight="600" text-anchor="middle" class="">接触与互动</text>
+<text x="136.0" y="199" font-size="19" font-weight="400" text-anchor="middle" class="minor">有真实参与</text>
+<path d="M237 181 H246" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="252" y="125" width="192" height="112" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="348.0" y="163" font-size="22" font-weight="600" text-anchor="middle" class="">重复协作</text>
+<text x="348.0" y="199" font-size="19" font-weight="400" text-anchor="middle" class="minor">积累新信息</text>
+<path d="M449 181 H458" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="464" y="125" width="192" height="112" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="560.0" y="163" font-size="22" font-weight="600" text-anchor="middle" class="">功能形成</text>
+<text x="560.0" y="199" font-size="19" font-weight="400" text-anchor="middle" class="minor">出现可用安排</text>
+<path d="M661 181 H670" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="676" y="125" width="192" height="112" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="772.0" y="163" font-size="22" font-weight="600" text-anchor="middle" class="">明确承诺</text>
+<text x="772.0" y="199" font-size="19" font-weight="400" text-anchor="middle" class="minor">双方确认范围</text>
+<path d="M873 181 H882" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="888" y="125" width="192" height="112" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="984.0" y="163" font-size="22" font-weight="600" text-anchor="middle" class="">跨域连接</text>
+<text x="984.0" y="199" font-size="19" font-weight="400" text-anchor="middle" class="minor">共同生活渐成形</text>
+<text x="560" y="275" font-size="20" font-weight="400" text-anchor="middle" class="minor">承诺可能先于能力成熟，图中位置不等于已经通过。</text>
+<text x="40" y="321" font-size="24" font-weight="600" text-anchor="start" class="">有益强化需要持续条件</text>
+<rect x="130" y="350" width="360" height="110" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="310.0" y="388" font-size="23" font-weight="600" text-anchor="middle" class="">合理投入</text>
+<text x="310.0" y="424" font-size="19" font-weight="400" text-anchor="middle" class="minor">真实参与，负担可接受</text>
+<rect x="630" y="350" width="360" height="110" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="810.0" y="388" font-size="23" font-weight="600" text-anchor="middle" class="">积极反馈</text>
+<text x="810.0" y="424" font-size="19" font-weight="400" text-anchor="middle" class="minor">双方认可相处带来的价值</text>
+<rect x="630" y="545" width="360" height="110" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="810.0" y="583" font-size="23" font-weight="600" text-anchor="middle" class="">信任与关系认同</text>
+<text x="810.0" y="619" font-size="19" font-weight="400" text-anchor="middle" class="minor">根据具体回应与履约增加</text>
+<rect x="130" y="545" width="360" height="110" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="310.0" y="583" font-size="23" font-weight="600" text-anchor="middle" class="">愿意继续参与</text>
+<text x="310.0" y="619" font-size="19" font-weight="400" text-anchor="middle" class="minor">双方继续靠近、创造和承担</text>
+<path d="M503 405 H615" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M810 472 V531" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M617 600 H505" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M310 531 V474" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="560" y="507" font-size="20" font-weight="500" text-anchor="middle" class="">双方愿意 · 回应适合 · 投入可承担</text>
+<text x="560" y="711" font-size="21" font-weight="400" text-anchor="middle" class="minor">有益才称良性循环；技术上的正反馈只表示自我强化。</text>
+</svg>

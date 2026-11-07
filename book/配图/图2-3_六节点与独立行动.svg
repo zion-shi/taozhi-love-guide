@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1080" viewBox="0 0 1120 1080" role="img" aria-labelledby="title desc"><title id="title">六个推进节点与独立行动判断</title><desc id="desc">六个节点从持续约会、排他了解、正式恋爱、正式订婚、婚姻家庭建立到长期经营。每点分别看运行、选择和承载，高后果行动另行确认。</desc><defs><marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto-start-reverse"><path d="M0 0 L9 4.5 L0 9 Z" fill="#3d716f"/></marker></defs><rect width="1120" height="1080" rx="20" fill="#faf8f2"/><style>text{font-family:"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#253d3c} .minor{fill:#526565}</style>
+<text x="40" y="53" font-size="30" font-weight="600" text-anchor="start" class="">六个推进节点与独立行动判断</text>
+<rect x="40" y="84" width="1040" height="100" rx="14" fill="#e9f1eb" stroke="#bbcdc2"/>
+<text x="560" y="124" font-size="25" font-weight="600" text-anchor="middle" class="">每个节点同时看：运行基础 · 双方选择 · 风险与责任可承载</text>
+<text x="560" y="159" font-size="20" font-weight="400" text-anchor="middle" class="minor">任何一项，都不能替另两项作答。</text>
+<rect x="40" y="220" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="258" font-size="23" font-weight="600" text-anchor="middle" class="">① 初识 → 持续约会</text>
+<text x="395.0" y="294" font-size="19" font-weight="400" text-anchor="middle" class="minor">愿意再次接触，已有积极体验</text>
+<path d="M395 321 V333" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="40" y="340" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="378" font-size="23" font-weight="600" text-anchor="middle" class="">② 持续约会 → 排他了解</text>
+<text x="395.0" y="414" font-size="19" font-weight="400" text-anchor="middle" class="minor">持续双向生成；明确有限排他范围</text>
+<path d="M395 441 V453" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="40" y="460" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="498" font-size="23" font-weight="600" text-anchor="middle" class="">③ 排他了解 → 正式恋爱</text>
+<text x="395.0" y="534" font-size="19" font-weight="400" text-anchor="middle" class="minor">普通可承担互动有积极价值；事实与意愿明确</text>
+<path d="M395 561 V573" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="40" y="580" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="618" font-size="23" font-weight="600" text-anchor="middle" class="">④ 正式恋爱 → 正式订婚</text>
+<text x="395.0" y="654" font-size="19" font-weight="400" text-anchor="middle" class="minor">适婚判断 ⇄ 关键协商；决定性条件足够清楚</text>
+<path d="M395 681 V693" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="40" y="700" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="738" font-size="23" font-weight="600" text-anchor="middle" class="">⑤ 正式订婚 → 婚姻与家庭建立</text>
+<text x="395.0" y="774" font-size="19" font-weight="400" text-anchor="middle" class="minor">登记、仪式、居住与责任安排分别落实</text>
+<path d="M395 801 V813" fill="none" stroke="#3d716f" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="40" y="820" width="710" height="96" rx="14" fill="#fffdf7" stroke="#bbcdc2"/>
+<text x="395.0" y="858" font-size="23" font-weight="600" text-anchor="middle" class="">⑥ 婚姻成立 → 长期共同经营</text>
+<text x="395.0" y="894" font-size="19" font-weight="400" text-anchor="middle" class="minor">持续生成、修复与适应；不是新增身份等级</text>
+<rect x="800" y="220" width="280" height="696" rx="14" fill="#efece1" stroke="#d9d5c7"/>
+<text x="940" y="269" font-size="25" font-weight="600" text-anchor="middle" class="">始终另行判断</text>
+<text x="940" y="329" font-size="23" font-weight="400" text-anchor="middle" class="">性亲密与身体接触</text>
+<text x="940" y="391" font-size="23" font-weight="400" text-anchor="middle" class="">共同居住</text>
+<text x="940" y="453" font-size="23" font-weight="400" text-anchor="middle" class="">借贷与购房</text>
+<text x="940" y="515" font-size="23" font-weight="400" text-anchor="middle" class="">辞职与迁居</text>
+<text x="940" y="577" font-size="23" font-weight="400" text-anchor="middle" class="">生育</text>
+<text x="940" y="639" font-size="23" font-weight="400" text-anchor="middle" class="">长期照护</text>
+<text x="940" y="752" font-size="21" font-weight="600" text-anchor="middle" class="">分别确认：</text>
+<text x="940" y="795" font-size="20" font-weight="400" text-anchor="middle" class="">事实、意愿、资源</text>
+<text x="940" y="832" font-size="20" font-weight="400" text-anchor="middle" class="">责任与可承担后果</text>
+<text x="940" y="882" font-size="22" font-weight="600" text-anchor="middle" class="">不随身份自动放行</text>
+<text x="560" y="977" font-size="21" font-weight="400" text-anchor="middle" class="">节点可以继续、暂缓、调整或退出；不按天数、次数或总分自动推进。</text>
+<text x="560" y="1024" font-size="21" font-weight="400" text-anchor="middle" class="minor">运行很好仍需明确选择；身份已经成立仍需看实际运行。</text>
+</svg>

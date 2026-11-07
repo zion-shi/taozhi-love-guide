@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1030" viewBox="0 0 1120 1030" role="img" aria-labelledby="title desc">
+<title id="title">责任来源与调整</title><desc id="desc">先辨责任来源，再结合既有履行、能力与其他责任确定范围。责任循环包含共同界定、认领、履行、贡献回应、环境变化与重分配，不把能力不足当免责，也不把责任变成无限义务。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1030" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="52" class="title">责任有形成的依据，也需要可行的履行与调整</text>
+<text x="38" y="91" class="body">先看谁知情、谁认可、谁参与受益，以及谁据此改变了生活。</text>
+<rect x="38" y="125" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="166" class="title">明确承诺</text>
+<text x="60" y="207" class="body">答应了什么、做到哪里</text>
+<text x="60" y="240" class="body">单方愿望不自动成为承诺</text>
+<rect x="400" y="125" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="166" class="title">共同认可的实践</text>
+<text x="422" y="207" class="body">实际怎样安排与受益</text>
+<text x="422" y="240" class="body">不只看有没有正式文件</text>
+<rect x="762" y="125" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="166" class="title">合理依赖</text>
+<text x="784" y="207" class="body">谁据共同安排改变生活</text>
+<text x="784" y="240" class="body">依赖程度与后果需看事实</text>
+<path class="line" d="M198,278 V302"/><path class="line" d="M560,278 V302"/><path class="line" d="M922,278 V302"/>
+<rect x="38" y="315" width="1044" height="145" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="356" class="title">另看范围与履行路径</text>
+<text x="60" y="397" class="body">既有履行、当前能力、其他责任、真实可用支持，决定怎样承担与过渡。</text>
+<text x="60" y="430" class="body">能力下降不抹去已有依据；已有责任不要求无限或不可能完成的履行。</text>
+<text x="38" y="500" class="body">责任循环：安排需要被理解、执行，也允许随现实重谈。</text>
+<rect x="38" y="525" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="566" class="title">1 · 共同定义事务</text>
+<text x="60" y="607" class="body">要完成什么、由谁承担</text>
+<text x="60" y="640" class="body">需要哪些资源与权限</text>
+<rect x="400" y="525" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="566" class="title">2 · 形成责任认同</text>
+<text x="422" y="607" class="body">本人理解并认领</text>
+<text x="422" y="640" class="body">未认可不冒充已有共识</text>
+<rect x="762" y="525" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="566" class="title">3 · 实际履责</text>
+<text x="784" y="607" class="body">让安排进入行动</text>
+<text x="784" y="640" class="body">偏差及时说明和处理</text>
+<rect x="762" y="725" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="766" class="title">4 · 识别贡献</text>
+<text x="784" y="807" class="body">看见组织与实际付出</text>
+<text x="784" y="840" class="body">感谢不代替真实减负</text>
+<rect x="400" y="725" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="766" class="title">5 · 环境变化</text>
+<text x="422" y="807" class="body">时间、资源、需要改变</text>
+<text x="422" y="840" class="body">旧安排未必仍可持续</text>
+<rect x="38" y="725" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="766" class="title">6 · 重分配与再认领</text>
+<text x="60" y="807" class="body">补足条件、明确接续</text>
+<text x="60" y="840" class="body">重新确认可承担安排</text>
+<path class="line" d="M364,600 H390"/><path class="line" d="M726,600 H752"/><path class="line" d="M922,678 V715"/><path class="line" d="M752,800 H730"/><path class="line" d="M390,800 H368"/><path class="line" d="M32,800 H18 V600 H30"/>
+<text x="38" y="918" class="body">自然默契运行良好时不必事事开会；显著依赖或变化出现时，需要把责任说清。</text>
+<text x="38" y="956" class="body">关系去留与合理善后分别处理，不把全部交接完成设为退出的资格。</text>
+<text x="38" y="1000" class="small">图8-1 · 本书的责任辨认框架；不直接裁定具体法定义务。</text>
+</svg>

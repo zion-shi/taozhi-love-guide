@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="985" viewBox="0 0 1120 985" role="img" aria-labelledby="title desc">
+<title id="title">旧伤、新事实与修复结果</title><desc id="desc">旧不安、本来未完成的修复与新的违约分别记录。可信危险先走独立支持；普通情境仍按同一七步，分别看三层结果。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="985" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">不安是真的，判断本次行为仍需具体事实</text>
+<rect x="38" y="90" width="1044" height="120" rx="15" fill="#f5e8df" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">若已有可信威胁或持续控制，先独立支持与保护</text>
+<text x="60" y="172" class="body">不等共同核对、完整举证或修复清单完成；不强制当面对质。</text>
+<text x="38" y="257" class="body">普通情境：核对本次发生什么、原补救做到哪里，以及当前还需要怎样的回应。</text>
+<rect x="38" y="300" width="320" height="210" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="341" class="title">本次未见新违约</text>
+<text x="60" y="382" class="body">区分本次事实与旧不安</text>
+<text x="60" y="415" class="body">回应余波，必要时回看旧事</text>
+<text x="60" y="448" class="body">不按难过次数增加违约</text>
+<text x="60" y="481" class="body">也不宣布已排除全部未知</text>
+<rect x="400" y="300" width="320" height="210" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="341" class="title">旧安排没有完成</text>
+<text x="422" y="382" class="body">具体哪项补救仍缺</text>
+<text x="422" y="415" class="body">意愿、权限或资源卡在哪里</text>
+<text x="422" y="448" class="body">继续落实已形成的责任</text>
+<text x="422" y="481" class="body">不要求受影响者先放下</text>
+<rect x="762" y="300" width="320" height="210" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="341" class="title">新的违约已证实</text>
+<text x="784" y="382" class="body">新行为与原约定相矛盾</text>
+<text x="784" y="415" class="body">记录新影响，更新当前判断</text>
+<text x="784" y="448" class="body">不把重演说成只是敏感</text>
+<text x="784" y="481" class="body">是否继续由本人参与选择</text>
+<text x="38" y="551" class="small">三种情况可以并存；不靠一项标签覆盖全部事件，也不把替代案例合成同一历史。</text>
+<rect x="38" y="590" width="1044" height="116" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="631" class="title">仍沿第八章与I.4的同一七步，分别观察下列结果</text>
+<text x="60" y="672" class="body">补款、改规则与重新亲近，可以在不同时间发生；一项完成不替其他项签字。</text>
+<rect x="38" y="745" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="786" class="title">事务</text>
+<text x="60" y="827" class="body">具体缺口和原安排</text>
+<text x="60" y="860" class="body">实际处理到什么程度</text>
+<rect x="400" y="745" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="786" class="title">规则、信任与共同体</text>
+<text x="422" y="827" class="body">参与和可信约定是否恢复</text>
+<text x="422" y="860" class="body">本人怎样理解共同选择</text>
+<rect x="762" y="745" width="320" height="145" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="786" class="title">感情</text>
+<text x="784" y="827" class="body">是否愿意重新靠近</text>
+<text x="784" y="860" class="body">是否有本人认可的体验</text>
+<text x="38" y="946" class="small">图15-2 · 说明原事件与新事实的使用方式，不诊断人格，也不证明未来必然恢复。</text>
+</svg>

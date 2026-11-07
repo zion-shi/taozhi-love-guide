@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1010" viewBox="0 0 1120 1010" role="img" aria-labelledby="title desc">
+<title id="title">任务授权与反馈</title><desc id="desc">筹备任务从已经共同认可的安排出发，连同必要信息资源权限交接，负责人在范围内执行，用与任务相对应的凭据确认完成。缺资料或超范围则返回具体事项，影响婚约前提则另行重议，已解决事项可以关闭。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1010" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">任务交给一个人，也把完成它的条件交清</text>
+<rect x="38" y="90" width="1044" height="130" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">从已认可安排出发</text>
+<text x="60" y="172" class="body">沿用双方已确认的日期、规模与总费用边界；出现变化，再协商受影响的安排。</text>
+<text x="60" y="205" class="body">说清这轮要完成什么：取得服务答复、落实预订，还是完成一次支付？</text>
+<path d="M560,228 V240 M198,240 H922" fill="none" stroke="#50746b" stroke-width="2"/><path class="line" d="M198,240 V258"/><path class="line" d="M560,240 V258"/><path class="line" d="M922,240 V258"/>
+<rect x="38" y="270" width="320" height="185" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="311" class="title">交接条件</text>
+<text x="60" y="352" class="body">必要结果与已有约束</text>
+<text x="60" y="385" class="body">相关资料和可用资源</text>
+<text x="60" y="418" class="body">主责、协助与回应时点</text>
+<rect x="400" y="270" width="320" height="185" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="422" y="311" class="title">明确执行范围</text>
+<text x="422" y="352" class="body">普通细节在范围内自主</text>
+<text x="422" y="385" class="body">相关人保留重要参与</text>
+<text x="422" y="418" class="body">新增共同后果先协商</text>
+<rect x="762" y="270" width="320" height="185" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="784" y="311" class="title">约好完成依据</text>
+<text x="784" y="352" class="body">服务信息要有实际答复</text>
+<text x="784" y="385" class="body">支付要有实际履行依据</text>
+<text x="784" y="418" class="body">未定项如实保留</text>
+<path d="M198,463 V494 H922 V463 M560,463 V494" fill="none" stroke="#50746b" stroke-width="2"/><path class="line" d="M560,494 V522"/>
+<rect x="38" y="535" width="1044" height="120" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="576" class="title">执行后看事实，而不只看清单打勾</text>
+<text x="60" y="617" class="body">这轮结果是否达到，谁还在提醒或返工，协助有没有真正交付？</text>
+<text x="60" y="650" class="body">一次遗漏可补齐；反复受阻则调整具体资料、权限、资源或责任。</text>
+<path class="line" d="M293,663 V693"/><path class="line" d="M827,663 V693"/>
+<rect x="38" y="706" width="510" height="173" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="747" class="title">已有依据、结果达到</text>
+<text x="60" y="788" class="body">完成当前任务，减少重复核验</text>
+<text x="60" y="821" class="body">后续新行动仍有自己的任务</text>
+<text x="60" y="854" class="body">不把问到报价当成已经签约付款</text>
+<rect x="572" y="706" width="510" height="173" rx="15" fill="#f5e8df" stroke="#ccd9cf"/>
+<text x="594" y="747" class="title">缺条件或出现重大变化</text>
+<text x="594" y="788" class="body">先停受影响的新增承诺</text>
+<text x="594" y="821" class="body">补缺口或重议原来的决定</text>
+<text x="594" y="854" class="body">不要求从零审问整段关系</text>
+<path class="line" d="M1088,792 H1104 V155 H1088"/>
+<text x="38" y="927" class="body">授权不包括单方新增共同债务、改变居住安排或代替另一人的身体选择。</text>
+<text x="38" y="974" class="small">图13-1 · 反馈用于调整具体任务；不为每个小动作建立审批，也不以婚约身份跳过依据。</text>
+</svg>

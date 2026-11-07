@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1150" viewBox="0 0 1120 1150" role="img" aria-labelledby="title desc">
+<title id="title">本月资金去向</title><desc id="desc">虚构普通月实际可用收入20000，最终对外支付15000，新增保留5000。内部转拨不增加收入或支出。期初储备单列接续，长期原余额未知。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="1150" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="50" class="title">从本月收入，追到实际支付和留存</text>
+<rect x="38" y="88" width="1044" height="118" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="129" class="title">已到账且可用：20000元</text>
+<text x="60" y="170" class="body">宋晴12000元 ＋ 郑闻8000元；不把期初储备当本月收入。</text>
+<rect x="38" y="263" width="505" height="210" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="304" class="title">普通月实际对外支付：15000元</text>
+<text x="60" y="345" class="body">必要生活保障与债务：12000元</text>
+<text x="60" y="378" class="body">共同弹性：1000元</text>
+<text x="60" y="411" class="body">个人消费：各1000元，共2000元</text>
+<rect x="577" y="263" width="505" height="210" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="599" y="304" class="title">本月新增并保留：5000元</text>
+<text x="599" y="345" class="body">年内预留：2000元</text>
+<text x="599" y="378" class="body">应急新增：2000元</text>
+<text x="599" y="411" class="body">长期目标新增：1000元</text>
+<path class="line" d="M560,206 V232 H291 V261"/>
+<path class="line" d="M560,232 H829 V261"/>
+<rect x="38" y="522" width="1044" height="125" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="563" class="title">核对：15000元已付 ＋ 5000元仍持有 ＝ 20000元</text>
+<text x="60" y="604" class="body">转给另一个账户，只改变位置；本图的个人消费，是转拨后确实花掉。</text>
+<path class="line" d="M291,473 V498 H560 V520"/>
+<path class="line" d="M829,473 V498 H560 V520"/>
+<rect x="38" y="702" width="1044" height="175" rx="15" fill="#edf0f3" stroke="#ccd9cf"/>
+<text x="60" y="743" class="title">把新增接回期初，保留各自用途</text>
+<text x="60" y="784" class="body">应急：60000 ＋ 2000 ＝ 62000元</text>
+<text x="60" y="817" class="body">年内：6000 ＋ 2000 ＝ 8000元</text>
+<text x="60" y="850" class="body">长期：期初实际余额 ＋ 1000元；原余额未知，不填零</text>
+<rect x="38" y="924" width="1044" height="133" rx="15" fill="#f5eee2" stroke="#ccd9cf"/>
+<text x="60" y="965" class="title">另一个分支：必要增加1000元</text>
+<text x="60" y="1006" class="body">共同弹性尚未花时，可经认可转给必要支付；原共同弹性用途随之取消。</text>
+<text x="60" y="1039" class="body">若已花，原方案便无此来源；其他安排不变时仍有1000元缺口。</text>
+<text x="40" y="1110" class="small">图F-2｜这是独立虚构算例，不是推荐比例；月末对得上也不证明信息完整或全部公平。</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="980" viewBox="0 0 1120 980" role="img" aria-labelledby="title desc">
+<title id="title">婚约变化与善后</title><desc id="desc">重大事实或资源条件变化后，暂停依赖旧前提的新增承诺，重新看意愿、可行路径和已经发生的责任。调整、延期和解除各有条件，关系选择与事务善后并行，善后不成为退出资格。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L8,4.5 L0,9" fill="#50746b"/></marker></defs>
+<rect width="1120" height="980" fill="#faf8f2"/>
+<style>text{font-family:'PingFang SC','Noto Sans CJK SC',sans-serif;fill:#253d3c}.body{font-size:18px}.small{font-size:16px}.title{font-size:24px;font-weight:600}.line{fill:none;stroke:#50746b;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="38" y="51" class="title">前提变化，更新选择；已有事务，另行处理</text>
+<rect x="38" y="90" width="1044" height="135" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="131" class="title">出现重大新事实</text>
+<text x="60" y="172" class="body">说清影响了哪个原前提，谁已据此行动，哪些新增投入需要先停。</text>
+<text x="60" y="205" class="body">辨明真实变化、原有未知、故意隐瞒与实际胁迫，不能只看结果不如预期。</text>
+<path class="line" d="M380,233 V267"/><path class="line" d="M922,233 V267"/>
+<rect x="38" y="280" width="684" height="180" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="60" y="321" class="title">关系与方案：本人还愿意什么</text>
+<text x="60" y="362" class="body">有无双方接受的可行组合</text>
+<text x="60" y="395" class="body">当前信息支持调整、延期或解除吗</text>
+<text x="60" y="428" class="body">不把尚无来源的等待写成已落实</text>
+<rect x="762" y="280" width="320" height="447" rx="15" fill="#fffdf8" stroke="#ccd9cf"/>
+<text x="784" y="321" class="title">已有事务</text>
+<text x="784" y="362" class="body">通知、预订、财物与隐私</text>
+<text x="784" y="395" class="body">真实依赖及已有责任</text>
+<text x="784" y="428" class="body">由有资料和权限的人处理</text>
+<text x="784" y="461" class="body">费用与法律结果按事实核实</text>
+<text x="784" y="494" class="body">不自动对半或一笔清零</text>
+<text x="784" y="527" class="body">在可执行范围内合理交接</text>
+<text x="784" y="560" class="body">未处理完不剥夺退出权</text>
+<path d="M380,468 V500 M143,500 H617" fill="none" stroke="#50746b" stroke-width="2"/><path class="line" d="M143,500 V531"/><path class="line" d="M380,500 V531"/><path class="line" d="M617,500 V531"/>
+<rect x="38" y="544" width="210" height="183" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="60" y="585" class="title">调整</text>
+<text x="60" y="626" class="body">新安排可承担</text>
+<text x="60" y="659" class="body">本人接受并认可</text>
+<text x="60" y="692" class="body">据新约定履行</text>
+<rect x="275" y="544" width="210" height="183" rx="15" fill="#e9f1eb" stroke="#ccd9cf"/>
+<text x="297" y="585" class="title">延期</text>
+<text x="297" y="626" class="body">愿结婚，有可信路径</text>
+<text x="297" y="659" class="body">写明重看依据</text>
+<text x="297" y="692" class="body">不强求无限等待</text>
+<rect x="512" y="544" width="210" height="183" rx="15" fill="#f5e8df" stroke="#ccd9cf"/>
+<text x="534" y="585" class="title">解除</text>
+<text x="534" y="626" class="body">本人不愿再继续</text>
+<text x="534" y="659" class="body">不需试尽所有方案</text>
+<text x="534" y="692" class="body">善后不恢复亲密</text>
+<rect x="38" y="755" width="1044" height="110" rx="15" fill="#eef0e7" stroke="#ccd9cf"/>
+<text x="60" y="796" class="title">两项工作不能互相代替</text>
+<text x="60" y="837" class="body">处理费用不购买结婚意愿；选择结束不抹去实际责任；善后未完不剥夺退出权。</text>
+<text x="38" y="912" class="small">有现实危险时优先保护和寻求可用支持，不要求先完成共同会谈或完整取证。</text>
+<text x="38" y="951" class="small">图12-2 · 三个方向并非始终都可行；具体财产与法律效果按实际事实另核。</text>
+</svg>
