@@ -4,7 +4,7 @@
 
 **注册名：`taozhi-love-guide` · 标准版：0.1.1 · 理论来源：《人间爱情指南》v1.2**
 
-[下载标准版 ZIP](https://github.com/zion-shi/taozhi-love-guide/releases/download/v0.1.1/taozhi-love-guide-0.1.1-standard.zip) · [查看发行说明](https://github.com/zion-shi/taozhi-love-guide/releases/tag/v0.1.1) · [阅读 Skill](SKILL.md)
+[下载标准版 ZIP](https://github.com/zion-shi/taozhi-love-guide/raw/refs/tags/v0.1.1/dist/taozhi-love-guide-0.1.1-standard.zip) · [查看发行说明](https://github.com/zion-shi/taozhi-love-guide/releases/tag/v0.1.1) · [阅读 Skill](SKILL.md)
 
 ## 开始使用
 
@@ -63,7 +63,7 @@ python3 scripts/read_guide.py --search "增益反馈"
 
 ## 本次发行
 
-仓库中的 Skill 文件来自 `taozhi-love-guide-0.1.1-standard.zip`，原包内容保持不变；仓库另附使用说明和忽略缓存的配置。Release 提供原始 ZIP 和校验文件。
+仓库中的 Skill 文件来自 `taozhi-love-guide-0.1.1-standard.zip`，原包内容保持不变；仓库另附使用说明和忽略缓存的配置。原始 ZIP 和校验文件位于 `dist/`，Release 页面提供下载链接。
 
 原始 ZIP 的 SHA-256：
 
